@@ -6,5 +6,5 @@
 - 5410547594  Nachanok Suktarachan
 
 #Docs
-- [Vision](https://docs.google.com/document/d/1ZoButzyDmYuiaFihFJX94dOtL-MCNoTuFbhzIWADe_Q/edit)
-- [Usecase](https://docs.google.com/document/d/1L1Jao8QXdYWIrQ-yBCkgu6rylNec2IawzRv6QbrXMwQ/edit)
+- [Vision](https://github.com/SSD2015/JD2015/blob/master/vs.md)
+- [Usecase](https://github.com/SSD2015/JD2015/blob/master/uc.md)
