@@ -1,3 +1,5 @@
+<img src="http://static.fjcdn.com/large/pictures/ac/7d/ac7d6a_5370905.jpg" width="480px" height="320px" />
+
 #Member
 - 5410545044  Waranyu Rerkdee
 - 5410545052  Supayut Raksuk
